@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
-	Uri="https://wearstudio.github.io/AMDelivery/Hybrid Meeting Prototype_arm.appinstaller"
+	Uri="https://wearstudio.github.io/AMDelivery-F-/Hybrid Meeting Prototype_arm.appinstaller"
 	Version="2.2.2.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainPackage
 		Name="AmazingMeetHeadset"
 		Version="2.2.2.0"
 		Publisher="CN=WeAR Studio"
-		Uri="https://wearstudio.github.io/AMDelivery/Hybrid Meeting Prototype_2.2.2.0_ARM_Test/Hybrid Meeting Prototype_2.2.2.0_ARM.msix"
+		Uri="https://wearstudio.github.io/AMDelivery-F-/Hybrid Meeting Prototype_2.2.2.0_ARM_Test/Hybrid Meeting Prototype_2.2.2.0_ARM.msix"
 		ProcessorArchitecture="arm" />
 	<Dependencies>
 		<Package
 			Name="Microsoft.VCLibs.140.00"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			ProcessorArchitecture="arm"
-			Uri="https://wearstudio.github.io/AMDelivery/Hybrid Meeting Prototype_2.2.2.0_ARM_Test/Dependencies/ARM/Microsoft.VCLibs.ARM.14.00.appx"
+			Uri="https://wearstudio.github.io/AMDelivery-F-/Hybrid Meeting Prototype_2.2.2.0_ARM_Test/Dependencies/ARM/Microsoft.VCLibs.ARM.14.00.appx"
 			Version="14.0.30035.0" />
 	</Dependencies>
 	<UpdateSettings>
